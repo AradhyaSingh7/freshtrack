@@ -20,11 +20,6 @@ FreshTrack is a full-stack kitchen inventory management system for restaurants. 
 
 ## Features
 
-### For Staff
-- **Log dish preparation** — select a dish and number of portions, preview exactly which batches will be deducted before confirming
-- **Log waste** — record wasted ingredients with a reason (spoilage, dropped, over-preparation, etc.) and flag whether the stock was already deducted
-- **View inventory** — see current stock levels with low-stock indicators
-
 ### For Managers
 - **Dashboard** — live overview of expiring batches, low stock alerts, waste cost this week, and dish suggestions
 - **Supplier management** — track suppliers and view a reliability ranking based on average shelf life of their deliveries
@@ -32,6 +27,11 @@ FreshTrack is a full-stack kitchen inventory management system for restaurants. 
 - **Dish & recipe management** — build dishes with per-portion ingredient quantities
 - **Waste analytics** — cost breakdown by reason with a bar chart, full filterable waste log
 
+### For Staff
+- **Log dish preparation** — select a dish and number of portions, preview exactly which batches will be deducted before confirming
+- **Log waste** — record wasted ingredients with a reason (spoilage, dropped, over-preparation, etc.) and flag whether the stock was already deducted
+- **View inventory** — see current stock levels with low-stock indicators
+  
 ---
 
 ## Key Design Decisions
